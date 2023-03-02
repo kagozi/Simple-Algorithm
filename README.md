@@ -4,7 +4,6 @@
 
 > **Note:** All the commands are based on a Unix based system such as _OSX_.
 > For a different system look for similar commands for it.
-> You need an instance of both MySQL and SQL server running.
 
 ## Setup
 
